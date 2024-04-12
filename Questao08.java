@@ -1,7 +1,4 @@
 /*Escreva um código Java que imprima os números de 1 a 10. */
-
-import java.util.Random;
-
 public class Questao08{
     public static void main(String[] args) {
 
